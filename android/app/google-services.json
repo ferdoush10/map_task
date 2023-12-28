@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728792026189",
+    "project_id": "myfirebaseproject-d814f",
+    "storage_bucket": "myfirebaseproject-d814f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728792026189:android:56303f3a59b3ec471c2004",
+        "android_client_info": {
+          "package_name": "com.example.google_map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuW1Hsr73Z-66moz6wPeCEY7hsNPW7wpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
